@@ -1,2 +1,2 @@
 # .github
-GitHub meta repository pour Frosch Home Assistant Add-ons
+GitHub meta repository pour Frosh Home Assistant Add-ons
